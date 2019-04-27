@@ -11,6 +11,7 @@
     <modules>
         <module>qujiang-api</module>
         <module>qujiang-service</module>
+        <module>qujiang-war</module>
     </modules>
 
     <dependencyManagement>
