@@ -1,0 +1,2 @@
+# MavenMultiModuleStudy
+在学习activiti时,对于activiti-ui下的acitviti-app打包方式并不是很理解。花了5分钟思考了下,还是准备较为深入的理解maven在多模块打包时的一些问题
